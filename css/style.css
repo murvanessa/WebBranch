@@ -56,7 +56,40 @@ nav ul li a{
 nav ul li a:hover{
     background: rgb(75, 79, 134);
 }
-  
+  /* Main */
+  .intro{
+    min-height: 800px;
+    text-align: center;
+    background-image: url('../img/community.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+  }
+
+  .content{
+    color: rgb(138, 14, 14);
+    padding-top: 60px;
+  }
+
+  .content h1{
+    font-size: 100px;
+    margin: 0;
+  }
+  .content p{
+    font-size: 50px;
+    color : blue;
+  }
+  .content a{
+    display: inline-block;
+    color: rgb(180, 33, 33);
+    border: 3px solid rgb(94, 44, 44);
+    border-radius: 3px;
+    padding: 15px 30px;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 28px;
+  }
+
   /* footer */
 footer{
     background: #222;
