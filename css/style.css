@@ -106,11 +106,28 @@ nav ul li a:hover{
     padding: 20px 30px;
   }
 
+  article { 
+    width: 50%; 
+    float: left; 
+    padding:10px; 
+    float:left; 
+} 
+aside { 
+    float:right; 
+    width: 40%; 
+    float: right; 
+    background-color: green; 
+    color: white; 
+    padding:5px;  
+    margin:10px; 
+    height:100px; 
+} 
+
   /* footer */
 footer{
     background: #222;
     color: #777;
     padding:5px;
-    margin-top:20px;
+    margin-top:150px;
     text-align: center;
 }
