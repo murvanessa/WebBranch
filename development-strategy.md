@@ -39,11 +39,47 @@ This user story was developed on a branch called `1-header-footer`
 
 - styling header and the footer
 
-## 2. ...
+## 2. Uer Story: Introduction 
 
-...
+__full user story description__
 
-...
+### Repo
+
+This user story was developed on a branch called `2-Introduction`
+
+### HTML
+
+- add element
+### CSS
+- styling 
+
+## 3. Uer Story: Main text 
+
+__full user story description__
+
+### Repo
+
+This user story was developed on a branch called `3-Main`
+
+### HTML
+
+- add element
+### CSS
+- styling 
+
+## 4. Uer Story: Aside 
+
+__full user story description__
+
+### Repo
+
+This user story was developed on a branch called `4-Aside`
+
+### HTML
+
+- add element
+### CSS
+- styling 
 
 ## Finishing Touches
 
