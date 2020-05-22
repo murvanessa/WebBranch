@@ -90,6 +90,22 @@ nav ul li a:hover{
     font-size: 28px;
   }
 
+  .section-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .section-header img  {
+    margin-bottom: 12px;
+    width: 80px;
+  }
+
+  .feature-box   {
+    display: inline-block;
+    width: 33%;
+    padding: 20px 30px;
+  }
+
   /* footer */
 footer{
     background: #222;
